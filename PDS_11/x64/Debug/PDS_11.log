@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_11\PDS_11\Graph.h(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_11\PDS_11\Graph.cpp(22,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PDS_11.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_11\PDS_11\x64\Debug\PDS_11.exe
